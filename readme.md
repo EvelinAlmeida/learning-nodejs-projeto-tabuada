@@ -38,11 +38,11 @@ https://localhost:3000. Para alterar o número de porta editar o arquivo app.js
 
 ## Desenvolvimento 
 
-O projetyo foi desenvolvido com:
+O projeto foi desenvolvido com:
 
-** [Node.js] (https://node.js.org) . Plataforma de desenvolvimento JavaScript
+* [Node.js]-(https://node.js.org) . Plataforma de desenvolvimento JavaScript
 
-* [Sublime Text] (https://www.sublimetext.com) - Editor de texto para programação.
+* [Sublime Text]-(https://www.sublimetext.com) - Editor de texto para programação.
 
 ## Autores 
 
