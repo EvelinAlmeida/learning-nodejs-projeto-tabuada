@@ -34,4 +34,16 @@ $ node app
 ```
 
 A aplicação está configurada a rodar na porta 3000.Para acessar a aplicação entrar no endereço 
-https://localhost:3000. Para alterar o número de porta editar o arquivo app.js.
+https://localhost:3000. Para alterar o número de porta editar o arquivo app.js
+
+## Desenvolvimento 
+
+O projetyo foi desenvolvido com:
+
+** [Node.js] (https://node.js.org) . Plataforma de desenvolvimento JavaScript
+
+* [Sublime Text] (https://www.sublimetext.com) - Editor de texto para programação.
+
+## Autores 
+
+* **Evelin Almeida** - [EvelinAlmeida](https://github.com/EvelinAlmeida/learning-nodejs-projeto-tabuada)
